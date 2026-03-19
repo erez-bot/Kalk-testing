@@ -1,0 +1,21 @@
+{
+  "project": "KALK",
+  "version": "2.1.0",
+  "features": {
+    "github_sync": {
+      "enabled": true,
+      "conflict_resolution": "manual",
+      "supported_file_types": ["text", "code", "markdown"]
+    },
+    "ai_chat": {
+      "model": "claude-sonnet",
+      "max_tokens": 4096,
+      "upload_types": ["image"]
+    }
+  },
+  "team": ["Alice", "Bob", "Carol"],
+  "metadata": {
+    "created": "2026-01-15",
+    "environment": "staging"
+  }
+}
