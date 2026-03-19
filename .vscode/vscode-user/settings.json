@@ -1,5 +1,6 @@
 {
   "workbench.colorTheme": "KALK Dark",
+  "editor.formatOnSave": true,
   "workbench.startupEditor": "none",
   "workbench.tips.enabled": false,
   "workbench.enableExperiments": false,
@@ -7,9 +8,8 @@
   "update.showReleaseNotes": false,
   "telemetry.telemetryLevel": "off",
   "workbench.editor.enablePreview": false,
-  "editor.formatOnSave": true,
   "editor.codeLens": false,
-  "editor.semanticHighlighting.enabled": false,
+  "editor.semanticHighlighting.enabled": true,
   "editor.scrollBeyondLastLine": false,
   "git.enabled": false,
   "scm.diffDecorations": "none",
