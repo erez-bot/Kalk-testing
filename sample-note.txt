@@ -1,6 +1,6 @@
 
 edited on kalk editor
-This is a test document for KALK AI chat upload testing.
+EDITED LOCALLY
 
 It contains exactly three paragraphs of plain text.
 
