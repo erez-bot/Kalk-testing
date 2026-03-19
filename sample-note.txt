@@ -1,4 +1,7 @@
-EDITED LOCALLY
+
+edited on kalk editor
+This is a test document for KALK AI chat upload testing.
+
 It contains exactly three paragraphs of plain text.
 
 The second paragraph discusses the purpose: to verify that the AI chat
